@@ -1,6 +1,6 @@
 ### Stuff I do/did/doing:
 
-_things marked are either completed or so close to finish i already published the repo_
+_Things marked are completed and will receive updates whenever i feel like it or not at all; Things with a link next to it are published but not completed as I want or I'm not planning on stop giving updates._
 
 - [ ] Single js file css based WYSIWYG word processor.
 - [ ] Python QT vCard full spec editor.
