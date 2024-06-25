@@ -1,4 +1,8 @@
-### Hi there 👋
+### Stuff I do/did/doing:
+
+_things marked are either completed or so close to finish i already published the repo_
+
+- [] Single js file css based WYSIWYG word processor.
 
 <!--
 **gabriele-vargiu/gabriele-vargiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
