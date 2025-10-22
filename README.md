@@ -8,4 +8,4 @@ _Things marked are completed and will receive updates whenever i feel like it or
 - [ ] Richer and more formal markdown flavour for syntactically meaningful document transfer over messaging apps.
 - [ ] Python QT vCard full spec editor.
 
-If you like some of my tools or applications please consider donating via [PayPal](paypal.me/vargiu), it'll be greatly appreciated and as of now my only source of income.
+_If you like some of my tools or applications please consider donating via [PayPal](paypal.me/vargiu), it'll be greatly appreciated and as of now my only source of income._
