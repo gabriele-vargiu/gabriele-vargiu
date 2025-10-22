@@ -5,3 +5,5 @@ _Things marked are completed and will receive updates whenever i feel like it or
 - [x] [Minimalist Javascript library to add reactive states and nothing more](https://github.com/gabriele-vargiu/reactfulness).
 - [ ] Single js file css based WYSIWYG word processor.
 - [ ] Python QT vCard full spec editor.
+
+If you like some of my tools or applications please consider donating via [PayPal](paypal.me/vargiu), it'll be greatly appreciated and as of now my only source of income.
