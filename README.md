@@ -4,6 +4,7 @@ _Things marked are completed and will receive updates whenever i feel like it or
 
 - [x] [Minimalist Javascript library to add reactive states and nothing more](https://github.com/gabriele-vargiu/reactfulness).
 - [x] [Python module for parsing .desktop files](https://github.com/gabriele-vargiu/parsed).
+- [ ] Monolith, a terminal tool to create simple UI and manage them via standard files.
 - [ ] Updating my blog.
 - [ ] Richer and more formal markdown flavour for syntactically meaningful document transfer over messaging apps.
 - [ ] Python QT vCard full spec editor.
