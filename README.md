@@ -7,6 +7,7 @@ _Things marked are completed and will receive updates whenever i feel like it or
 - [ ] Monolith, a terminal tool to create simple UI and manage them via standard files.
 - [ ] Updating my blog.
 - [ ] Richer and more formal markdown flavour for syntactically meaningful document transfer over messaging apps.
+- [ ] AT100, a framebuffer true color terminal with dedicated control sequences.
 - [ ] Python QT vCard full spec editor.
 
-_If you like some of my tools or applications please consider donating via [PayPal](paypal.me/vargiu), it'll be greatly appreciated and as of now my only source of income._
+_If you like some of my tools or applications please consider donating via [PayPal](https://paypal.me/vargiu), it'll be greatly appreciated and as of now my only source of income._
